@@ -154,3 +154,13 @@ input[type=text], select {
     margin-top: -21vw;
     position: absolute;
 }
+.text_corto{
+    font-size: 0.6vw;
+    text-align: center;
+    margin-left: -26vw;
+    margin-top: 3vw;
+}
+.flecha{
+    margin-left: 36.5vw;
+    margin-top: 0.7vw;
+}

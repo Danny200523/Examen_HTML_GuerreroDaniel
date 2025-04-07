@@ -1,4 +1,8 @@
 @import url('./variables.css');
+a{
+    text-decoration: none;
+    color: white;
+}
 .Seccion__Pagina__Principal{
     display: flex;
     flex-direction: column;
@@ -156,10 +160,12 @@ input[type=text], select {
     width: 30vw;
 }
 .text_corto{
+    font-family: "agendal";
     font-size: 0.6vw;
     text-align: center;
     margin-left: -26vw;
     margin-top: 3vw;
+    color: black;
 }
 .flecha{
     margin-left: 36.5vw;
@@ -200,7 +206,7 @@ input[type=text], select {
     justify-content: center;
 }
 .banco{
-    width: 17vw;
+    width: 20vw;
 }
 .pqr{
     text-align: center;

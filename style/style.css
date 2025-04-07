@@ -151,8 +151,9 @@ input[type=text], select {
 }
 .img_paracaidas{
     margin-left: 55vw;
-    margin-top: -21vw;
+    margin-top: -23vw;
     position: absolute;
+    width: 30vw;
 }
 .text_corto{
     font-size: 0.6vw;
@@ -163,4 +164,51 @@ input[type=text], select {
 .flecha{
     margin-left: 36.5vw;
     margin-top: 0.7vw;
+}
+.text_etapas{
+    font-family: "agendal";
+    margin-top: 2vw;
+    font-size: 2.3vw;
+    text-align: center;
+}
+.etapas{
+    display: flex;
+    gap: 20vw;
+    font-family: "agendal";
+    font-size: 1.5vw;
+    margin-top: 2vw;
+    justify-content: center;
+}
+.etapas1{
+    display: flex;
+    margin-left: 2vw;
+    gap: 12vw;
+    font-family: "agendal";
+    font-size: 1.5vw;
+    margin-top: 2vw;
+    justify-content: center;
+}
+.title2{
+    font-family: "agendal";
+    font-size: 2vw;
+    text-align: center;
+    margin-top: 3vw;
+}
+.box_bancos{
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+}
+.banco{
+    width: 17vw;
+}
+.pqr{
+    text-align: center;
+    font-family: "agendal";
+    font-size: 1vw;
+    margin-top: 1vw;
+}
+.flecha1{
+    margin-left: 49.5vw;
+    margin-top: 1vw;
 }
